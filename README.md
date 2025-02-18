@@ -30,11 +30,11 @@ Processing: Extracted TACs were analyzed to calculate radiotracer kinetics and c
 Time-Activity Curve Processing – Extracted TAC data to track radiotracer kinetics over time.
 Kinetic Modeling – Applied compartmental modeling to estimate rate constants for tracer distribution.
 ## Results
- ![image](https://github.com/user-attachments/assets/8cbb9c39-ec1a-4f2d-a65f-7a92aaf15f8e)
+1. ![image](https://github.com/user-attachments/assets/8cbb9c39-ec1a-4f2d-a65f-7a92aaf15f8e)
 
 *Time–activity curves of [11C]raclopride in the striatum (A) and cerebellum (B) of rats at baseline and after pretreatment with 1 mg/kg CGS21680 (data are expressed as mean ± SD).*
 
-![image](https://github.com/user-attachments/assets/6fe08a1f-3992-4c6c-8533-c762bf60077f)
+2. ![image](https://github.com/user-attachments/assets/6fe08a1f-3992-4c6c-8533-c762bf60077f)
 
 *Binding potential and relative tracer delivery derived from the baseline and follow-up scans. (A) Nondisplaceable binding potential (BPND) of the striatum (p = 0.102, Cohen’s d = 0.63). (B) Relative delivery ratio [R1 = K1/K1′] between the striatum and cerebellum (p = 0.054, Cohen’s d = 0.84).*
 
