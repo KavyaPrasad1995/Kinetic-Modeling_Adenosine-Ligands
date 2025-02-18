@@ -31,18 +31,24 @@ Time-Activity Curve Processing – Extracted TAC data to track radiotracer kinet
 Kinetic Modeling – Applied compartmental modeling to estimate rate constants for tracer distribution.
 ## Results
  ![image](https://github.com/user-attachments/assets/8cbb9c39-ec1a-4f2d-a65f-7a92aaf15f8e)
-*Figure 1: Figure 3. Time–activity curves of [11C]raclopride in the striatum (A) and cerebellum (B) of rats at baseline and after pretreatment with 1 mg/kg CGS21680 (data are expressed as mean ± SD).*
+
+*Time–activity curves of [11C]raclopride in the striatum (A) and cerebellum (B) of rats at baseline and after pretreatment with 1 mg/kg CGS21680 (data are expressed as mean ± SD).*
 
 ![image](https://github.com/user-attachments/assets/6fe08a1f-3992-4c6c-8533-c762bf60077f)
-2. *Figure 4. Binding potential and relative tracer delivery derived from the baseline and follow-up scans. (A) Nondisplaceable binding potential (BPND) of the striatum (p = 0.102, Cohen’s d = 0.63). (B) Relative delivery ratio [R1 = K1/K1′] between the striatum and cerebellum (p = 0.054, Cohen’s d = 0.84).*
+
+*Binding potential and relative tracer delivery derived from the baseline and follow-up scans. (A) Nondisplaceable binding potential (BPND) of the striatum (p = 0.102, Cohen’s d = 0.63). (B) Relative delivery ratio [R1 = K1/K1′] between the striatum and cerebellum (p = 0.054, Cohen’s d = 0.84).*
+
 3. ![image](https://github.com/user-attachments/assets/fe8fb931-0fb2-4e97-962b-a488b82d7730)
-*Figure 5. Time–activity curves of [11C]raclopride in (A) striatum and (B) cerebellum of vehicle-, CGS21680-, and KW6002-treated rats (data are expressed as mean ± SD).*
+*Time–activity curves of [11C]raclopride in (A) striatum and (B) cerebellum of vehicle-, CGS21680-, and KW6002-treated rats (data are expressed as mean ± SD).*
+
 4. ![image](https://github.com/user-attachments/assets/08db8f2d-9544-424c-a5fc-cbb69d86384c)
-*Figure 6. (A) Binding potential (BPND) of [11C]raclopride in the striatum for vehicle-, CGS21680-, and KW6002-treated rats. (B) Relative delivery ratios [R1 = K1/K1′] for vehicle-, CGS21680-, and KW6002-treated rats.*
+*(A) Binding potential (BPND) of [11C]raclopride in the striatum for vehicle-, CGS21680-, and KW6002-treated rats. (B) Relative delivery ratios [R1 = K1/K1′] for vehicle-, CGS21680-, and KW6002-treated rats.*
+
 5. ![image](https://github.com/user-attachments/assets/2541c906-c8c0-437e-9e9a-981dbe9172df)
-*Figure 7. Time–activity curves of [11C]raclopride for scans with blood sampling. (A) Whole-blood and (B) metabolite-corrected plasma. (C) Exponential fit of the parent fraction of [11C]raclopride in plasma for rats pretreated with vehicle, CGS21680, or KW6002 (mean ± SD).*
+*Time–activity curves of [11C]raclopride for scans with blood sampling. (A) Whole-blood and (B) metabolite-corrected plasma. (C) Exponential fit of the parent fraction of [11C]raclopride in plasma for rats pretreated with vehicle, CGS21680, or KW6002 (mean ± SD).*
+
 6. ![image](https://github.com/user-attachments/assets/d7f133ce-df13-4831-b2f6-f4da083c6bc2)
-*Figure 8. Indirect kinetic binding potential (BPND) of [11C]raclopride in the striatum for the vehicle-, CGS21680-, and KW6002-treated rats determined with 2TCM.*
+*Indirect kinetic binding potential (BPND) of [11C]raclopride in the striatum for the vehicle-, CGS21680-, and KW6002-treated rats determined with 2TCM.*
 
 
 
